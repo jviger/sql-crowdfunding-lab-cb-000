@@ -1,1 +1,10 @@
 INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
+INSERT INTO projects(title, category, funding_goal, start_date,end_date) VALUES('a','a',10,'10/1/19','12/31/19');
